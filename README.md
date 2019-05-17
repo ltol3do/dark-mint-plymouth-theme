@@ -1,6 +1,6 @@
-## Dark Mint
+## White Mint
 
-*Dark Mint* is a theme for Plymouth, the boot splash tool for Linux. It's designed with Linux Mint in mind, but can be used in any installation that uses Plymouth.
+*White Mint* is a theme for Plymouth, the boot splash tool for Linux. It's designed with Linux Mint in mind, but can be used in any installation that uses Plymouth.
 
 [![Screenshot](https://jsayol.github.io/dark-mint-plymouth-theme/img/screenshot_small.png)](https://jsayol.github.io/dark-mint-plymouth-theme/img/screenshot.png)
 
@@ -30,7 +30,7 @@ It runs for 2 seconds by default. You can optionally specify the number of secon
 
 ## License
 
-Copyright (C) 2015  Josep Sayol
+Copyright (C) 2019 TOL3DO
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
